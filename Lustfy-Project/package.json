@@ -1,0 +1,23 @@
+{
+  "name": "esquilo-encantado",
+  "version": "1.0.0",
+  "description": "Um bot para o servidor do Discord Esquilo Encantado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonRichy/Projeto-Esquilo-Encantado.git"
+  },
+  "author": "Yamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonRichy/Projeto-Esquilo-Encantado/issues"
+  },
+  "homepage": "https://github.com/AndersonRichy/Projeto-Esquilo-Encantado#readme",
+  "dependencies": {
+    "@types/node": "^12.7.12",
+    "discord.js": "^11.5.1"
+  }
+}
